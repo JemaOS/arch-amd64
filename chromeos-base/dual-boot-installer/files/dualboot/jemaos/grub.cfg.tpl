@@ -1,4 +1,4 @@
-#JemaOS 2020-08-24 Author: yang@jemaos.io
+#JemaOS 2023-08-24 Author: johndoe@jemaos.io
 defaultA=0
 defaultB=1
 set img=/jemaos/jemaos_dual_boot.img
@@ -12,7 +12,7 @@ else
   set default=$defaultA
 fi
 
-set timeout=1
+set timeout=0
 
 # NOTE: find rootfs by label (not partion label)
 
