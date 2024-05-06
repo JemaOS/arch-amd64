@@ -7,7 +7,7 @@ EGIT_BRANCH="main"
 
 inherit git-r3
 
-DESCRIPTION="Script to configure FydeOS to boot alongside existing OS."
+DESCRIPTION="Script to configure JemaOS to boot alongside existing OS."
 HOMEPAGE="https://jemakey.com"
 
 SLOT="0"
